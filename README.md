@@ -16,5 +16,8 @@ TOKEN_DIGITEX_PROD='yourapitokenprod'
 
 Digitex Futures Link:
 
+PROD
 https://digitex.io/trade/market/BTCUSD
+
+TEST
 https://testnet.digitexfutures.com/market/BTCUSD
