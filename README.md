@@ -1,6 +1,8 @@
 # digitex-bot
 
-For tun this App you need create file config.py with next parameters:
+To run this application you must generate the following file: config.py
+
+parameters:
 
 HOST_DIGITEX_PROD = 'ws.mainnet.digitexfutures.com'
 HOST_DIGITEX_TEST = 'ws.testnet.digitexfutures.com'
