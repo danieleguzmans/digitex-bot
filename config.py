@@ -1,6 +1,0 @@
-API_KEY = 'FLTFOhJNYBAYv2DSkyrDiBnayUcxUM4KjNFrXCK1AQkmob0uNeG32m2hSqsm31mf'
-API_SECRET = 'CqduiUqEtHM86pgxL5FrHbggG8u9uIY7gdXUynk8FdHbooFAW0PSuz9nprms44UD'
-TOKEN_DIGITEX_PROD = 'f202264c7a514d983b2e9845bc0a5c49e5c3d800'
-TOKEN_DIGITEX_TEST = '000f36089132d169d9a9527dccaa5b1a4d40ca8c'
-HOST_DIGITEX_PROD = 'ws.mainnet.digitexfutures.com'
-HOST_DIGITEX_TEST = 'ws.testnet.digitexfutures.com'
